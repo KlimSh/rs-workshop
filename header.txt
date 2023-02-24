@@ -1,2 +1,5 @@
 Some text for header
-Changes from master - new changes!
+Changes from master
+Changes from file header
+
+Text from master - new changes!!!
